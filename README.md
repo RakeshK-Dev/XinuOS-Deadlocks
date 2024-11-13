@@ -60,5 +60,4 @@ The `main-deadlock.c` file contains test cases to:
 
 ---
 
-Feel free to explore, use, or contribute to this repository. Your feedback and suggestions are welcome!
 
